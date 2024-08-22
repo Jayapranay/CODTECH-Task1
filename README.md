@@ -1,26 +1,19 @@
 
-Name: Jaya Pranay Guduru, Company: CODTECH IT SOLUTIONS, ID: CT08DS5510, Domain: Java Programming, Duration: August to September 2024, Mentor: Muzammil Ahmed
-Overview
-Objective:
-Create a Java program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+## Task 1: Simple Calculator
 
-Features:
+**Name:** Jaya Pranay Guduru | **Company:** CODTECH IT SOLUTIONS | **ID:** CT08DS5510 | **Domain:** Java Programming | **Duration:** August to September 2024 | **Mentor:** Muzammil Ahmed
 
-User Input:
+**Objective:** Create a Java program that performs basic arithmetic operations: addition, subtraction, multiplication, and division. 
 
-Ask the user to enter two numbers.
-Ask the user to select an operation (addition, subtraction, multiplication, or division).
-Operations:
+**Features:** 
+- **User Input:** Ask the user to enter two numbers and select an operation (addition, subtraction, multiplication, or division). 
+- **Operations:** 
+  - **Addition:** Adds the two numbers.
+  - **Subtraction:** Subtracts the second number from the first.
+  - **Multiplication:** Multiplies the two numbers.
+  - **Division:** Divides the first number by the second (with error handling for division by zero). 
+- **Output:** Displays the result of the selected operation.
 
-Addition: Adds the two numbers.
-Subtraction: Subtracts the second number from the first.
-Multiplication: Multiplies the two numbers.
-Division: Divides the first number by the second (with error handling for division by zero).
-Output:
+**How It Works:** The user provides two numbers and selects an operation. The program then performs the chosen arithmetic operation and displays the result.
 
-Display the result of the selected operation.
-How It Works:
-
-Input: The user provides two numbers and selects an operation.
-Processing: The program performs the chosen arithmetic operation.
-Output: The program displays the result of the operation.
+ 
