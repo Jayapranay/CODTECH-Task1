@@ -1,18 +1,20 @@
-CODTECH-Task1
+
+Task 1: Simple Calculator
 Name: Jaya Pranay Guduru
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS5510
-Domain: Java Programing
+Domain: Java Programming
 Duration: August to September 2024
-Mentor : Muzammil Ahmed
-Overview of Task 1: Simple Calculator
-Objective:
-Task 1: Simple Calculator
+Mentor: Muzammil Ahmed
+
+Overview
 Objective:
 Create a Java program that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 Features:
+
 User Input:
+
 Ask the user to enter two numbers.
 Ask the user to select an operation (addition, subtraction, multiplication, or division).
 Operations:
@@ -25,6 +27,7 @@ Output:
 
 Display the result of the selected operation.
 How It Works:
-Input: User provides two numbers and selects an operation.
+
+Input: The user provides two numbers and selects an operation.
 Processing: The program performs the chosen arithmetic operation.
-Output: The program displays the result.
+Output: The program displays the result of the operation.
