@@ -17,3 +17,4 @@
 **How It Works:** The user provides two numbers and selects an operation. The program then performs the chosen arithmetic operation and displays the result.
 
  
+![Screenshot (456)](https://github.com/user-attachments/assets/e16082cb-842e-488e-9fc4-37361007b1e9)
